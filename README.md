@@ -2,10 +2,11 @@
 add a companytheme in blue colors with Loginscreen
 
 #### Zweck:
-individueller Anmeldebildschirm mit blauem Theme
+individueller Anmeldebildschirm mit blauem Theme im Share-Bereich
 #### Voraussetzungen:  
 - linux
 - maven
+- lauffähiges Alfresco
 #### Konfiguration:
 ersetzen der Bilder `company.svg`und `companybackground.png`mit den eigenen Bildern in `src/main/amp/web/themescompanTheme/images/`
 #### Ausführung:
@@ -18,6 +19,7 @@ dann Alfresco neustarten und dat Theme aktivieren.
 - Alfresco 26.1
 #### Screenshots
 ![Theme-Aktivierung](screenshots/Screenshot2.png)
+dan zum testen wieder abmelden und Anmeldebildschirm prüfen
 ![Anmeldebilschirm](screenshots/Screenshot1.png)
 
 
