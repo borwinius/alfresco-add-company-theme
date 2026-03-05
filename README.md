@@ -7,13 +7,18 @@ individueller Anmeldebildschirm mit blauem Theme
 - linux
 - maven
 #### Konfiguration:
-ersezten der Bilder `company.svg`und `companybackground.png`mit den eigenen Bildern in `src/main/amp/web/themescompanTheme/images/`
+ersetzen der Bilder `company.svg`und `companybackground.png`mit den eigenen Bildern in `src/main/amp/web/themescompanTheme/images/`
 #### Ausführung:
   `cd alfresco-add-company-theme`  
   `mvn clean package`
-dan die entstandene `target/add-company-theme-1.0-SNAPSHOT.amp` in das share_amp-Verzeichnis kopieren und in Alfresco integrieren
+dann die entstandene `target/add-company-theme-1.0-SNAPSHOT.amp` in das share_amp-Verzeichnis kopieren und in Alfresco integrieren
+dann Alfresco neustarten und dat Theme aktivieren.
 #### Erfahrungen:
-Alfresco 26.1
+- docker
+- Alfresco 26.1
+#### Screenshots
+![Theme-Aktivierung](screenshots/Screenshot2.png)
+![Anmeldebilschirm](screenshots/Screenshot1.png)
 
 
 
