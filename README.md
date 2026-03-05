@@ -6,6 +6,7 @@ individueller Anmeldebildschirm mit blauem Theme im Share-Bereich
 #### Voraussetzungen:  
 - linux
 - maven
+- internetzugang
 - lauffähiges Alfresco
 #### Konfiguration:
 ersetzen der Bilder `company.svg`und `companybackground.png`mit den eigenen Bildern in `src/main/amp/web/themescompanTheme/images/`
