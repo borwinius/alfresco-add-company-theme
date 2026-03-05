@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<theme>
+   <title>Company Theme</title>
+   <title-id>theme.companyTheme</title-id>
+   <css-tokens>
+      <!-- Aikau related LESS variables -->
+      <less-variables>
+
+	@dashlet-background: transparent;
+	@header-background-color: #054bad; <!-- Menüfarbe blau -->
+	@header-font-color: orange;
+	@header-hover-background-color: #2077f0; <!-- hellblau -->
+        @header-hover-font-color: #ffc107; <!-- hellorange amber -->
+	@dashlet-border: 1px solid #bababa;
+	@dashlet-border-radius: 0;
+	@dashlet-title-background: #d7e0e7 linear-gradient(to bottom, #e3ebef, #afc0cf); <!-- Menüschriftfarbe lila -->
+	@dashlet-title-border-bottom: 0;
+	@dashlet-title-border-radius: 0;
+	@dashlet-title-color: #2077f0;<!-- aktiviertes Menü farbe hellblau-->
+	@dashlet-toolbar-background: #f6f6f6; <!-- aktivierte hellgraue Schriftfarbe-->
+	@dashlet-toolbar-border-bottom: 1px solid #d3d3d3; <!-- Toolbarhintergrund grau -->
+	@dashlet-body-background: #cce1f0; <!-- Toolbarhintergrund hellblau-->
+	@dashlet-body-border-radius: 0;
+
+
+<!--
+         @header-background-color: #2077f0;         
+         @header-font-color: yellow;
+         @header-hover-background-color: #BDA0CB;   
+         @header-hover-font-color: #ccc;
+         @header-focus-background-color: #8A2BE2;
+         @header-focus-font-color: red;
+         @header-menubar-font-color: yellow;
+         @header-dropdown-menu-font-color: yellow;
+
+         @dashlet-background: #fff;
+         @dashlet-border: 1px solid #bababa;
+         @dashlet-border-radius: 0;
+         @dashlet-title-background: #92c15f linear-gradient(to bottom, #a3d07a, #92c15f);
+         @dashlet-title-border-bottom: 0;
+         @dashlet-title-border-radius: 0;
+         @dashlet-title-color: #fff;
+         @dashlet-toolbar-background: #A020F0;
+         @dashlet-toolbar-border-bottom: 1px solid #d3d3d3;
+         @dashlet-body-background: #f9fcfd;
+         @dashlet-body-border-radius: 0;
+-->
+      </less-variables>
+   </css-tokens>
+</theme>
