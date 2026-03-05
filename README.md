@@ -18,8 +18,8 @@ dann Alfresco neustarten und dat Theme aktivieren.
 - docker
 - Alfresco 26.1
 #### Screenshots
-![Theme-Aktivierung](screenshots/Screenshot2.png)
-dan zum testen wieder abmelden und Anmeldebildschirm prüfen
+![Theme-Aktivierung](screenshots/Screenshot2.png)  
+dann zum testen wieder abmelden und Anmeldebildschirm prüfen  
 ![Anmeldebilschirm](screenshots/Screenshot1.png)
 
 
