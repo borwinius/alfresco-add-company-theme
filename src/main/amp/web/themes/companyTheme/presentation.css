@@ -1327,3 +1327,21 @@ body.alfresco-guest
      background: url(images/companybackground.png) no-repeat;
      background-size: cover;
 }
+
+/*For community version css [start]*/
+.footer-com .copyright.copyright {
+   display: inline-block;
+   line-height: 22px;
+   padding: 2px;
+}
+
+.footer-com .copyright.copyright img {
+    content:
+        url("images/company-logo-48.png")
+}
+
+.footer-com .copyright.copyright img:after {
+    background:
+        url("images/company-logo-48.png")
+}
+/*For community version css [end]*/
