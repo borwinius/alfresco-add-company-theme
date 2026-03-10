@@ -9,7 +9,7 @@ individueller Anmeldebildschirm mit blauem Theme im Share-Bereich
 - internetzugang
 - lauffähiges Alfresco
 #### Konfiguration:
-ersetzen der Bilder `company.svg`und `companybackground.png`mit den eigenen Bildern in `src/main/amp/web/themescompanTheme/images/`
+ersetzen der Bilder `company.svg`, `company-logo-48.png`, `favicon.ico` und `companybackground.png`mit den eigenen Bildern in `src/main/amp/web/themescompanTheme/images/`
 #### Ausführung:
   `cd alfresco-add-company-theme`  
   `mvn clean package`
@@ -22,6 +22,7 @@ dann Alfresco neustarten und dat Theme aktivieren.
 ![Theme-Aktivierung](screenshots/Screenshot2.png)  
 dann zum testen wieder abmelden und Anmeldebildschirm prüfen  
 ![Anmeldebilschirm](screenshots/Screenshot1.png)
-
+als Ergebnis sollten die neuen Icons zu sehen sein:
+![Anmeldebilschirm](screenshots/Screenshot3.png)
 
 
