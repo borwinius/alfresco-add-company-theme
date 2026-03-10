@@ -1,0 +1,14 @@
+<extension>
+  <modules>
+    <module>
+      <id>theme-specific-favicon</id>
+      <auto-deploy>true</auto-deploy>
+      <customizations>
+        <customization>
+          <targetPackageRoot>org.alfresco.components.head</targetPackageRoot>
+          <sourcePackageRoot>de.borwinius.customization.head</sourcePackageRoot>
+        </customization>
+      </customizations>
+    </module>
+  </modules>
+</extension>
